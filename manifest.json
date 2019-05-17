@@ -1,0 +1,12 @@
+{
+ "package": "Switch Camera",
+ "language": "python",
+ "author": "FarmBot, Inc.",
+ "description": "Switch between USB and Raspberry Pi cameras.",
+ "version": "1.0.0",
+ "min_os_version_major": 6,
+ "url": "https://raw.githubusercontent.com/FarmBot-Labs/switch-camera/master/manifest.json",
+ "zip": "https://github.com/FarmBot-Labs/switch-camera/archive/master.zip",
+ "executable": "python",
+ "args": ["switch-camera-master/switch_camera.py"]
+}
