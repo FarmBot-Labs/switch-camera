@@ -6,8 +6,8 @@
  "farmware_manifest_version": "2.0.0",
  "package_version": "1.0.0",
  "farmbot_os_version_requirement": ">= 8.0.0",
- "url": "https://raw.githubusercontent.com/FarmBot-Labs/switch-camera/master/manifest.json",
- "zip": "https://github.com/FarmBot-Labs/switch-camera/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/FarmBot-Labs/switch-camera/main/manifest.json",
+ "zip": "https://github.com/FarmBot-Labs/switch-camera/archive/main.zip",
  "executable": "python",
- "args": "switch-camera-master/switch_camera.py"
+ "args": "switch-camera-main/switch_camera.py"
 }

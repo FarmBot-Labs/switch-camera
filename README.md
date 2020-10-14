@@ -4,7 +4,7 @@ Farmware to switch between USB and Raspberry Pi cameras.
 ## Install
 [Farmware page](https://my.farm.bot/app/farmware) install URL:
 ```
-https://raw.githubusercontent.com/FarmBot-Labs/switch-camera/master/manifest.json
+https://raw.githubusercontent.com/FarmBot-Labs/switch-camera/main/manifest.json
 ```
 
 ## Use
